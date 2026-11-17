@@ -1,0 +1,123 @@
+variable,label,n_valid_in_analysis_file
+Q1,Do you recall seeing this information before?,229
+Q2_1,"DV1_On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",227
+Q2_2,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",221
+Q2_3,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",220
+Q1.0,Do you recall seeing this information before?,228
+Q2_1.0,"DV2_On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",228
+Q2_2.0,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",224
+Q2_3.0,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",225
+Q1.1,Do you recall seeing this information before?,224
+Q2_1.1,"DV3_On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",224
+Q2_2.1,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",223
+Q2_3.1,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",222
+Q1.2,Do you recall seeing this information before?,227
+Q2_1.2,"DV4_On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",228
+Q2_2.2,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",226
+Q2_3.2,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",226
+Q1.3,Do you recall seeing this information before?,224
+Q2_1.3,"DV5_On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",226
+Q2_2.3,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",226
+Q2_3.3,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",225
+Q1.4,Do you recall seeing this information before?,121
+Q2_1.4,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",119
+Q2_2.4,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",118
+Q2_3.4,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",116
+Q1.5,Do you recall seeing this information before?,120
+Q2_1.5,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",120
+Q2_2.5,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",119
+Q2_3.5,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",120
+Q1.6,Do you recall seeing this information before?,119
+Q2_1.6,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",119
+Q2_2.6,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",120
+Q2_3.6,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",119
+Q1.7,Do you recall seeing this information before?,119
+Q2_1.7,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",120
+Q2_2.7,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",120
+Q2_3.7,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",119
+Q1.8,Do you recall seeing this information before?,117
+Q2_1.8,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",118
+Q2_2.8,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",119
+Q2_3.8,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",118
+Q1.9,Do you recall seeing this information before?,110
+Q2_1.9,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",109
+Q2_2.9,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",110
+Q2_3.9,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",110
+Q1.A,Do you recall seeing this information before?,108
+Q2_1.A,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",109
+Q2_2.A,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",109
+Q2_3.A,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",109
+Q1.B,Do you recall seeing this information before?,108
+Q2_1.B,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",109
+Q2_2.B,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",109
+Q2_3.B,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",109
+Q1.C,Do you recall seeing this information before?,109
+Q2_1.C,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",110
+Q2_2.C,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",110
+Q2_3.C,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",110
+Q1.D,Do you recall seeing this information before?,109
+Q2_1.D,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - This information is true",111
+Q2_2.D,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I am confident in my judgment about its truthfulness",111
+Q2_3.D,"On a scale of 1 to 5, please respond to the extent to which you agree or disagree with each statement about the information presented above. - I would share this information with people in my network",111
+EP1_1,1 Votes will be counted fairly,340
+EP1_2,2 Election officials will be fair,339
+EP1_3,3 Media will provide fair coverage of the election,336
+EP1_4,4 Many people will show up to vote and be told they are not eligible,339
+EP1_5,5 The electoral process will be fair and secure,338
+EP1_6,6 Many votes will actually not be counted,338
+EP1_7,7 Someone will tamper with the voting system,339
+EP1_8,8 Election officials will be biased,339
+EP1_9,9 The voting system will be secure,334
+EP1_10,"10 There will be voter fraud; that is, people who are not eligible will vote",339
+EP1_11,11 Voters will be threatened with violence at the polls,339
+AC,Attention check 1 - violet,304
+AC0,Attention check 1 - violet,0
+AC1,Attention check 1 - violet,0
+AC2,Attention check 1 - violet,0
+AC3,Attention check 1 - violet,0
+AC4,Attention check 1 - violet,0
+AC5,Attention check 1 - violet,0
+AC6,Attention check 1 - violet,0
+VB2,VI1 How likely are you to vote in the 2024 US General Election?,338
+VI1_1,VotMatters I think my vote matters,340
+VI1_2,VI2 I intend to vote in as many elections as possible in the future,337
+PVB1,"Have you ever voted in any general election in the United States (Presidential, Senate, etc.)?",340
+PVB2,Did you vote in the 2022 US Mid-term election?,340
+PVB3,Think about the opportunities that you have had to vote in the past. How often would you say you vote?,340
+PVB4,"I actively seek information about elections (from family, friends, media, etc.).",340
+AC.0,"This is a simple question. When asked for your favorite drink, you need to select carrot juice.  Based on the text below, what would you say your favorite drink is?",340
+A1,Are you registered to vote in the US?,340
+A2,Are you registered to vote in Georgia?,340
+A3,Were you eligible to vote in the 2020 US Presidential Election?,340
+A4,Were you eligible to vote in the 2022 US Mid-term Election?,339
+A5,Do you expect to be eligible to vote in the 2024 US Presidential Election?,339
+A6,PolIdeology Please indicate where you would place yourself on this scale ranging from 1 (Very Liberal) to 7 (Very Conservative),338
+PolAffiliation,PolParty Which political party/affiliation do you identify with? - Selected Choice,340
+Gender,With what gender do you identify?,340
+Age,How old are you?,339
+Major,What is your major?,339
+MAJOR0,What is your major?,0
+MAJOR1,What is your major?,0
+MAJOR2,What is your major?,0
+MAJOR3,What is your major?,0
+MAJOR4,What is your major?,0
+MAJOR5,What is your major?,0
+MAJOR6,What is your major?,0
+A11,Do you have a spouse or significant other?,340
+Income,Which of these describes your personal income last year?,338
+Religious,"How religious would you say you are? (1 = Not at all, 7 = extremely)",339
+Spiritual,"How spiritual would you say you are? (1 = Not at all, 7 = extremely)",338
+SocMed,Do you have any type of social media account?,339
+A16_1,"How often do you use (Twitter/Instagram/Facebook)? (1 = never, 5 = Multiple times a day) Check (Not Applicable) if you do not have a Twitter/Instagram/Facebook Account. - Twitter",248
+A16_2,"How often do you use (Twitter/Instagram/Facebook)? (1 = never, 5 = Multiple times a day) Check (Not Applicable) if you do not have a Twitter/Instagram/Facebook Account. - Instagram",292
+A16_3,"How often do you use (Twitter/Instagram/Facebook)? (1 = never, 5 = Multiple times a day) Check (Not Applicable) if you do not have a Twitter/Instagram/Facebook Account. - Facebook",229
+DM2_1,"Thank you for taking the survey!  Selecting ""Done"" and Clicking on the arrow will take you to a different survey, separate from this research survey. There you will enter your name and course information, so your instructor can assign you extra credit. Done",340
+Condition,Condition,340
+REP1_4,REP1_4,339
+REP1_6,REP1_6,338
+REP1_7,REP1_7,339
+REP1_8,REP1_8,339
+REP1_10,REP1_10,339
+REP1_11,REP1_11,339
+ElectionSecurityBelief,Election Security Belief,340
+ElectionMalpracticeBelief,Election Malpractice Belief,339
